@@ -18,7 +18,7 @@ RouteViewer is a Java application that uses **GraphHopper** to calculate routes 
 ## Installation and Use.
 ### 1. Prerequisites.
 - Java 8+ installed.
-- Maven (optional, for dependency management).
+- Maven (For dependency management).
 
 ### 2. Downloading OpenStreetMap data.
 To use GraphHopper, you must download a `.osm.pbf` file of the region you are interested in. You can get these files from [Geofabrik](http://download.geofabrik.de/). Once you have downloaded the file, place it in the main folder of your project, then you can get started.
